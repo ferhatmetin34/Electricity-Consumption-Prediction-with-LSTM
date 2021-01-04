@@ -1,3 +1,3 @@
 # Electricity-Consumption-Prediction-with-LSTM
 
-![](Electricity Consumption Prediction with LSTM.png)
+![](Electricity Consumption Prediction with LSTM.jpeg)
